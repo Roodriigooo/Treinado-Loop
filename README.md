@@ -1,0 +1,2 @@
+# Treinado-Loop
+Repetindo -Frases
